@@ -8,7 +8,7 @@ The course is structured into 2 major sections:
 
    <u>Subsections</u>:
 
-   ​	[Front End Overview - Scratching the surface](Front End Overview - Scratching the surface)
+   ​	[Front End Overview - Scratching the surface](presentation/00_FrontEndOverview.md)
 
    ​	HTML 
 
