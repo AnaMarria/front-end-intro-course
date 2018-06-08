@@ -10,7 +10,7 @@ The course is structured into 2 major sections:
 
    [1. Front End Overview - Scratching the surface](presentation/00_FrontEndOverview.md)
 
-   [Mark-up](presentation/02_Mark-up.md)
+   [2. Mark-up](presentation/01_Mark-up.md)
 
    Styling
 

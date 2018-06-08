@@ -1,3 +1,19 @@
+Subsections:
+
+1. [The story so far](#storySoFar)
+2. [Front-End Ecosystem](#FE_Echosystem)
+3. [Text Editors](#TextEditors)
+
+
+
+---
+
+
+
+<h1 id="storySoFar">The story so far</h1>
+
+
+
 ## The term "Front-End"
 
 
@@ -8,9 +24,10 @@ In general, the term front-end refers to what happens in the User Interface (UI)
 
 When talking about the web, there are 3 major technologies that handle the front-end part. I like to use this little comparison to explain their role. Imagine that you want to build a sentence, you basically need 3 components: 
 
-1. The noun : HTML - offers the semantic structure, pointing out what things are, e.g. "*car*"
-2. The adjective: CSS - describes the attributes of the non, e.g. "*red dog*"
-3. The verb: JavaScript - describe how the noun interacts, what it does, how it does it and when, e.g. "r*ed dog that barks wen it sees a cat*"
+> 1. The noun : HTML - offers the semantic structure, pointing out what things are, e.g. "*car*"
+> 2. The adjective: CSS - describes the attributes of the non, e.g. "*red dog*"
+> 3. The verb: JavaScript - describe how the noun interacts, what it does, how it does it and when, e.g. "r*ed dog that barks wen it sees a cat*"
+>
 
 Obviously, JavaScript is the core component here, no mater if other programmers like it or not, JavaScript is the language of the web and it's here to stay.
 
@@ -75,9 +92,72 @@ First of all, someone has to do it, but there are a couple of good technical rea
 
 
 
+---
 
 
-#### `Next, we will deep dive into the world of Front-End technologies.`
 
 
+
+<h1 id="FE_Echosystem">Front-End Ecosystem</h1>
+
+
+
+Now that we've established what Front-End Programming is and why should we do it, let's deep dive into the architecture.
+
+
+
+We will only cover Front-End WEB development, as the term front-end can apply to other kinds of development as well.
+
+
+
+### The browser environment.
+
+
+
+The best part about web development is that you don't need to force the client to install anything in order to run your app. All that he need is a web browser.
+
+
+
+### Browser APIs
+
+
+
+
+
+
+
+---
+
+
+
+
+
+<h1 id="TextEditors">Text Editors</h1>
+
+
+
+Theoretically, you can use any kind of text editor to write your code. In practice, there are tools that make your life a whole lot easier.
+
+
+
+Productivity benefits:
+
+- Syntax Highlighting
+- Auto Completion
+- Shortcuts
+- Linters
+- Auto Formatting
+- Integrated Web Servers
+- Version Control Integration
+- Other Plugin Integration
+
+
+
+Atom Editor
+
+
+
+
+
+----
 
