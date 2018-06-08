@@ -8,19 +8,17 @@ The course is structured into 2 major sections:
 
    <u>Subsections</u>:
 
-   ​	[Front End Overview - Scratching the surface](presentation/00_FrontEndOverview.md)
+   [1. Front End Overview - Scratching the surface](presentation/00_FrontEndOverview.md)
 
-   ​	HTML 
+   [Mark-up](presentation/02_Mark-up.md)
 
-   ​	CSS
+   Styling
 
-   ​	CSS Frameworks (Bootstrap)
+   JavaScript
 
-   ​	JavaScript
+   DevTools, GIT and other tools
 
-   ​	JavaScript Libraries (jQuery)
-
-   ​	Sum-Up
+   Best Practices
 
    
 
