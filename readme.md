@@ -10,9 +10,9 @@ The course is structured into 2 major sections:
 
    [1. Front End Overview - Scratching the surface](presentation/00_FrontEndOverview.md)
 
-   [2. Mark-up](presentation/01_Mark-up.md)
+   [2. Markup](presentation/01_Markup.md)
 
-   Styling
+   [3. Styling](#presentation/02_Styling.md)
 
    JavaScript
 

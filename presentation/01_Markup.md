@@ -7,7 +7,8 @@ Subsections
 5. [Media Tags](#mediaTags)
 6. [Forms](#forms)
 7. [The DOM](#theDOM)
-8. [SEO & Best Practices](#SEOandBP)
+8. [Advanced HTML](#advancedHTML)
+9. [SEO & Best Practices](#SEOandBP)
 
 
 
@@ -25,11 +26,33 @@ The main purpose of HTML was to display and link trough documents.
 
 This is why, HTML is still referred to as the "document".
 
-HTML is not the only type of markup. 
+HTML is  a part of the **Standard Generalized Markup Language** so HTML is not the only type of markup language out there.
+
+Other markup  languages: 
+
+XML 
+
+LaTeX 
+
+Markdown
+
+SVG 
+
+MathML 
+
+[full list](https://en.wikipedia.org/wiki/List_of_markup_languages)
 
 
 
-### What HTML is not?
+### What HTML is NOT?
+
+It is not a programming language, it's a markup  language. 
+
+
+
+
+
+### What shoud HTML be used for?
 
 
 
@@ -86,6 +109,14 @@ HTML is not the only type of markup.
 
 
 <h1 id="theDOM">The DOM</h1>
+
+
+
+---
+
+
+
+<h1 id="advancedHTML">Advanced HTML</h1>
 
 
 
