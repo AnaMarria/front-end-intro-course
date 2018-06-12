@@ -54,7 +54,7 @@ It is not a programming language, it's a markup  language.
 
 ### What shoud HTML be used for?
 
-
+HTML should used for defining structure.
 
 
 
@@ -65,6 +65,29 @@ It is not a programming language, it's a markup  language.
 <h1 id="TagAnathomy">Anatomy of a tag</h1>
 
 
+
+### HTML tag syntax 
+
+
+
+<u>The common tag</u>
+
+### <tag attribute property="value">content</tag>
+
+<u>Self-Closing tags</u>
+
+### <tag attribure property="value"/>
+
+###  <tag attribure property="value">
+
+
+
+### attributes vs properties
+
+- an attribute has an implicit Boolean value, the presence of it indicating the value True
+  - ex: `checked`, `readonly`
+- a property is a key-value pair 
+  - ex: `type="number"` , `id="myId"`, `class="myClass1 myClass2"`, `src="myImage.png"`
 
 
 

@@ -12,13 +12,13 @@ The course is structured into 2 major sections:
 
    [2. Markup](presentation/01_Markup.md)
 
-   [3. Styling](#presentation/02_Styling.md)
+   [3. Styling](presentation/02_Styling.md)
 
-   JavaScript
+   [4. JavaScript](presentation/03_JavaScript.md)
 
-   DevTools, GIT and other tools
+   [5. DevTools, GIT and other tools](presentation/04_DevTools.md)
 
-   Best Practices
+   [6. Best Practices](presentation/05_BestPractices.md)
 
    
 
