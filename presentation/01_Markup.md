@@ -133,6 +133,8 @@ Semantic tags
 
 
 
+
+
 ---
 
 
@@ -202,11 +204,21 @@ Great resources:
 
 
 
+
+
+
+
 ----
 
 
 
 <h1 id="SEOandBP">SEO and Best Practices</h1>
+
+
+
+
+
+
 
 
 
