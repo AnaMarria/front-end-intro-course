@@ -140,7 +140,7 @@ Theoretically, you can use any kind of text editor to write your code. In practi
 
 
 
-Productivity benefits:
+##### Productivity benefits:
 
 - Syntax Highlighting
 - Auto Completion
@@ -153,7 +153,19 @@ Productivity benefits:
 
 
 
-Atom Editor
+### Smart Text Editors 
+
+- Atom Editor
+- VisualStudio Code
+- WebStorm
+- Brackets
+- Sublime Text
+
+### Online Environment
+
+- Codepen
+- jsfiddle
+- jsbin
 
 
 
