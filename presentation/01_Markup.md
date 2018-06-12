@@ -28,19 +28,19 @@ This is why, HTML is still referred to as the "document".
 
 HTML is  a part of the **Standard Generalized Markup Language** so HTML is not the only type of markup language out there.
 
-Other markup  languages: 
+<u>Other markup  languages:</u> 
 
-XML 
+*XML* 
 
-LaTeX 
+*LaTeX* 
 
-Markdown
+*Markdown*
 
-SVG 
+*SVG* 
 
-MathML 
+*MathML* 
 
-[full list](https://en.wikipedia.org/wiki/List_of_markup_languages)
+*[full list](https://en.wikipedia.org/wiki/List_of_markup_languages)*
 
 
 
@@ -99,6 +99,26 @@ HTML should used for defining structure.
 
 
 
+### Text tags:
+
+Paragraph 
+
+Span
+
+Headings
+
+
+
+### Lists:
+
+Unordered Lists
+
+Ordered Lists
+
+
+
+
+
 
 
 ----
@@ -108,6 +128,8 @@ HTML should used for defining structure.
 <h1 id="HTML5">HTML5</h1>
 
 
+
+Semantic tags
 
 
 
@@ -119,6 +141,18 @@ HTML should used for defining structure.
 
 
 
+Video Tag
+
+
+
+Audio Tag
+
+
+
+Canvas Tag
+
+
+
 ----
 
 
@@ -127,11 +161,36 @@ HTML should used for defining structure.
 
 
 
+```HTML
+<form action="myMethod.php" method="post">
+  <fieldset>
+    <legend>Some Options</legend>
+    <label for="radio1">Option A</label>
+    <input type="radio" name="myRadioGroup1" id="radio1">
+    <label for="radio2">Option B</label>
+    <input type="radio" name="myRadioGroup1" id="radio2">
+    <label for="radio3">Option C</label>
+    <input type="radio" name="myRadioGroup1" id="radio3"> 
+  </fieldset>
+</form>
+```
+
+
+
+
+
 ---
 
 
 
 <h1 id="theDOM">The DOM</h1>
+
+
+
+Great resources:
+
+1. [CSS Tricks - What is the DOM ](https://css-tricks.com/dom/)
+2. 
 
 
 
