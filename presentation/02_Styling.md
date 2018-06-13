@@ -4,8 +4,8 @@ Subsections:
 
 #### I. CSS
 
-1. Anatomy of a CSS rule
-2. Different ways of adding style
+1. [Anatomy of a CSS rule](#cssRuleAnatomy)
+2. [Different ways of adding style](#waysOfStyling)
 3. Styling examples
 4. The nature of the cascade
 5. Dimensions
@@ -30,6 +30,45 @@ Subsections:
 
 
 ------
+
+
+
+<h1 id="cssRuleAnatomy">Anatomy of a CSS rule</h1>
+
+
+
+Any CSS rule has 2 parts: a selector and a set of property-value pairs.
+
+
+
+> selector{
+>
+> property1 : value_X;
+>
+> property2 : value_Y;
+>
+> }
+
+
+
+<h1 id="waysOfStyling">Different ways of applying style</h1>
+
+
+
+There are 3+1 ways of adding style to your page.
+
+
+
+![](_img/bravo-ai-stil.png)
+
+
+
+
+
+1. Inline using the style attribute
+2. At the document level using using the <style> tag
+3. Using an external CSS file
+4. Altering the DOM using JavaScript
 
 
 

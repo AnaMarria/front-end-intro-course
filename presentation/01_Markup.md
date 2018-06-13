@@ -76,17 +76,19 @@ HTML should used for defining structure.
 
 <u>Self-Closing tags</u>
 
-### <tag attribure property="value"/>
+### <tag attribute/> 
 
-###  <tag attribure property="value">
+or just
+
+###  <tag attribute>
 
 
 
-### attributes vs properties
+### attributes vs boolean attributes
 
-- an attribute has an implicit Boolean value, the presence of it indicating the value True
+- an Boolean attribute has an implicit Boolean value(True or False), the presence of it indicating the value True
   - ex: `checked`, `readonly`
-- a property is a key-value pair 
+- an attribute is a key-value pair 
   - ex: `type="number"` , `id="myId"`, `class="myClass1 myClass2"`, `src="myImage.png"`
 
 
