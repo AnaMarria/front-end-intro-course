@@ -30,11 +30,27 @@ git clone https://github.com/florinasavei/front-end-intro-course.git
 
 
 
-Creating a node.js project (quick mode)
+What is Node.js?
+
+
+
+#### Creating a node.js project (quick mode)
 
 ```javascript
 npm init --y
 ```
 
+#### Installing (and saving) a package
 
+```
+npm install jquery --save
+```
+
+#### Installing dependencies from package.json
+
+open a terminal in the directory where package.json is located and run
+
+```
+npm install
+```
 
