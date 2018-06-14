@@ -66,11 +66,47 @@ There are 3+1 ways of adding style to your page.
 
 
 1. Inline using the style attribute
+
+```
+<p style="color:red; font-wright:bold">Lorem Impum</p>
+```
+
+
+
 2. At the document level using using the <style> tag
+
+   ```
+   <style>
+   	#myelement{
+           background-color:red;
+           border:1px solid red;
+   	}
+   </style>
+   ```
+
+   
+
 3. Using an external CSS file
+
+```
+<link href="mystyle.css">
+```
+
+
+
 4. Altering the DOM using JavaScript
 
+```
+document.body.style.backgroundColor = "red";
+```
 
 
 
+
+
+<h1>Styling Examples</h1>
+
+
+
+See exercise files [here](../src/02_CSS/readme.md). 
 
