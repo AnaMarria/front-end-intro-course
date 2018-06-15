@@ -14,6 +14,12 @@ Subsections:
 
 
 
+
+
+
+
+
+
 <h1 id="git">GIT</h1>
 
 
@@ -30,7 +36,9 @@ git clone https://github.com/florinasavei/front-end-intro-course.git
 
 
 
-What is Node.js?
+##### What is Node.js?
+
+
 
 
 
@@ -52,5 +60,49 @@ open a terminal in the directory where package.json is located and run
 
 ```
 npm install
+```
+
+
+
+
+
+
+
+## <u>Node Tools & Packages</u>
+
+
+
+#### Browser Sync
+
+
+
+Installing:
+
+```javascript
+npm install -g browser-sync
+```
+
+
+
+Running: 
+
+```
+browser-sync ./ -w
+```
+
+
+
+
+
+
+
+### **node-sass**
+
+
+
+Installing:
+
+```
+npm install node-sass
 ```
 
