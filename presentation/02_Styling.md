@@ -6,11 +6,12 @@ Subsections:
 
 1. [Anatomy of a CSS rule](#cssRuleAnatomy)
 2. [Different ways of adding style](#waysOfStyling)
-3. Styling examples
-4. The nature of the cascade
-5. Dimensions
+3. [Styling examples](#stylingExamples)
+4. CSS selectors
+5. The nature of the cascade
 6. Positioning
-7. Advanced styling
+7. Dimensions & Responsiveness
+8. Advanced styling
 
 #### II. CSS Libraries (Bootstrap)
 
@@ -105,9 +106,11 @@ document.body.style.backgroundColor = "red";
 
 
 
-<h1>Styling Examples</h1>
+<h1 id="stylingExamples">Styling Examples</h1>
 
 
 
 See exercise files [here](../src/02_CSS/readme.md). 
+
+
 
