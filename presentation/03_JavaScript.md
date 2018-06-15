@@ -1,8 +1,8 @@
 Subsections:
 
 1. [Why JavaScript?](#whyJS)
-2. JS distinctive Characteristics
-3. The basics of programming with JavaScript
+2. [JS distinctive Characteristics](#distinctiveCharacteristics)
+3. [The basics of programming with JavaScript](./03.01_JavaScriptBasicProgramming.md)
 4. Manipulating the DOM
 5. JavaScript events
 6. AJAX
@@ -62,3 +62,15 @@ Now that we watched some quality memes (which is what Front-End developers do 80
 3. Object-Oriented (prototypal)
 4. Asynchronous (non-blocking)
 5. Runs natively in the browser
+
+
+
+
+
+----
+
+
+
+
+
+<h1 id="distinctiveCharacteristics">JS distinctive Characteristics(compared to other programming languages</h1>
