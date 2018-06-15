@@ -28,6 +28,7 @@ Subsections:
 1. CSS Pre-Processing
 2. Node.js & CLIs
 3. SCSS overview
+4. [node-sass](#node-saas)
 
 
 
@@ -113,4 +114,20 @@ document.body.style.backgroundColor = "red";
 See exercise files [here](../src/02_CSS/readme.md). 
 
 
+
+<h1 id="node-saas">node-saas</h1>
+
+
+
+Installing:
+
+```
+npm install node-sass
+```
+
+Running 
+
+```
+node-sass scss -o css -w
+```
 

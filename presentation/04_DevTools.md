@@ -106,3 +106,13 @@ Installing:
 npm install node-sass
 ```
 
+Running 
+
+```
+node-sass scss -o css -w
+```
+
+
+
+
+
