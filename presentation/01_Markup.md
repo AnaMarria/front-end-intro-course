@@ -131,7 +131,9 @@ Ordered Lists
 
 
 
-Semantic tags
+### Semantic tags
+
+[W3Shools Reference](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 
 

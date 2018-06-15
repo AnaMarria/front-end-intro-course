@@ -10,6 +10,7 @@ Subsections:
 4. The nature of the cascade
 5. Dimensions
 6. Positioning
+7. Advanced styling
 
 #### II. CSS Libraries (Bootstrap)
 

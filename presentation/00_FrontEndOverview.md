@@ -169,7 +169,15 @@ Theoretically, you can use any kind of text editor to write your code. In practi
 
 
 
+### Cool Atom plugins
 
+[Beautify](https://atom.io/packages/atom-beautify)
+
+[Live Server](https://atom.io/packages/atom-live-server)
+
+[Emmet](https://atom.io/packages/emmet)  documentation here : [emmet.io](http://emmet.io)
+
+[Open in Browser](https://atom.io/packages/open-in-browsers)
 
 ----
 
