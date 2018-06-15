@@ -2,7 +2,7 @@ Subsections:
 
 1. [Why JavaScript?](#whyJS)
 2. [JS distinctive Characteristics](#distinctiveCharacteristics)
-3. [The basics of programming with JavaScript](./03.01_JavaScriptBasicProgramming.md)
+3. [The basics of programming with JavaScript](./03.03_JavaScriptBasicProgramming.md)
 4. Manipulating the DOM
 5. JavaScript events
 6. AJAX
