@@ -18,15 +18,11 @@ Subsections:
 
 
 
-
-
-
-
 <h1 id="git">GIT</h1>
 
 
 
-Cloning a repository:
+##### Cloning a repository:
 
 ```
 git clone https://github.com/florinasavei/front-end-intro-course.git
